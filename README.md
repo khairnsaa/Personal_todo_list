@@ -1,3 +1,9 @@
+# Personal_todo_list
+Personal Task Todo List Assignment for week 2 sparta coding club bootcamp
+
+deployed version on vercel:
+https://personal-todo-list.vercel.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
